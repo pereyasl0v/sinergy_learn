@@ -10,7 +10,6 @@ class university
 
 public:
 	
-    int password;
     string name_user;
 
     void SetName(string name)
