@@ -1,0 +1,3 @@
+﻿  2.cpp
+C:\Users\USER\Desktop\Sinergy\technology\8.5\2\2\2.cpp(59,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  2.vcxproj -> C:\Users\USER\Desktop\Sinergy\technology\8.5\2\2\x64\Debug\2.exe
